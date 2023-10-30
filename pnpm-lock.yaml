@@ -65,8 +65,8 @@ devDependencies:
     specifier: ^5.0.0
     version: 5.0.0(prettier@3.0.2)
   prettier-plugin-astro:
-    specifier: ^0.11.1
-    version: 0.11.1
+    specifier: ^0.12.1
+    version: 0.12.1
   reading-time:
     specifier: ^1.5.0
     version: 1.5.0
@@ -4159,8 +4159,8 @@ packages:
       prettier: 3.0.2
     dev: true
 
-  /prettier-plugin-astro@0.11.1:
-    resolution: {integrity: sha512-28sf624jQz9uP4hkQiRPRVuG1/4XJpnS6DfoXPgeDAeQ+eQ1o21bpioUbxze57y2EN+BCHeEw6x3a1MhM08Liw==}
+  /prettier-plugin-astro@0.12.1:
+    resolution: {integrity: sha512-1mlNIU/cV+25oB4z5wXzOz2fSDcawG3MsVUwgw2i8VSy7voLSENMSpR1juu3U5MAVUo3owuyax11QuylbpuqOQ==}
     engines: {node: ^14.15.0 || >=16.0.0}
     dependencies:
       '@astrojs/compiler': 1.8.0
